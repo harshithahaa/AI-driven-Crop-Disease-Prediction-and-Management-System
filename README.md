@@ -1,7 +1,7 @@
 # PSCS_282-AI-driven-Crop-Disease-Prediction-and-Management-System
 AI-driven system for early detection and management of crop diseases using deep learning. Predicts diseases from leaf images and provides actionable recommendations, helping farmers reduce yield loss and improve sustainable farming practices. 
 
-📌 Project Description
+📌 Project Description:
 
 The AI-Driven Crop Disease Prediction and Management System is designed to help farmers detect and manage crop diseases quickly and effectively. Crop diseases cause major losses in yield and income, and their early identification is often difficult because it requires expert knowledge. Farmers usually rely on manual inspection, which is time-consuming, inaccurate, and often results in delayed treatment.
 
