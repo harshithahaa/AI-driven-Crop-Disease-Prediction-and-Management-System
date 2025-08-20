@@ -10,3 +10,5 @@ This project leverages artificial intelligence and deep learning techniques to a
 The solution is developed as a lightweight, mobile-friendly application to ensure accessibility for farmers. It accepts inputs such as leaf images and environmental data (temperature, humidity, rainfall) and provides outputs including disease classification, severity prediction, and recommended actions. By combining detection with management advice, the system offers a complete decision-support tool for farmers.
 
 Overall, the project aims to deliver a farmer-friendly, cost-effective, and scalable solution that not only improves productivity but also contributes to sustainable agriculture by reducing crop losses and supporting food security.
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ca032ef6-bf47-4a57-99e6-312f2043ad46" />
