@@ -1,3 +1,3 @@
 ## Dataset Access
 The dataset is hosted externally due to size limits.  
-[Download here] => (https://www.kaggle.com/datasets/nirmalsankalana/crop-pest-and-disease-detection/data)
+[Download here] => (https://data.mendeley.com/datasets/bwh3zbpkpv/1)
