@@ -11,4 +11,4 @@ The solution is developed as a lightweight, mobile-friendly application to ensur
 
 Overall, the project aims to deliver a farmer-friendly, cost-effective, and scalable solution that not only improves productivity but also contributes to sustainable agriculture by reducing crop losses and supporting food security.
 
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ca032ef6-bf47-4a57-99e6-312f2043ad46" />
+<img width="1536" height="1030" alt="Image" src="https://github.com/user-attachments/assets/ca032ef6-bf47-4a57-99e6-312f2043ad46" />
